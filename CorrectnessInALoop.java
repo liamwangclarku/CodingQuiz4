@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CorrectnessInALoop {
+public class Solution {
 
     public static void insertionSort(int[] A) {
         for (int i = 1; i < A.length; i++) {
